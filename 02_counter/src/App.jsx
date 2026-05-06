@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 
 function App() {
-  // let counter = 1;
+
   let [counter,setCounter] = useState(5)
   
   const addValue = () => {
