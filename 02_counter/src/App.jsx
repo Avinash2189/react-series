@@ -7,6 +7,10 @@ function App() {
   
   const addValue = () => {
     setCounter(counter + 1);
+    setCounter(counter + 1);
+    setCounter(counter + 1);
+    setCounter(counter + 1);
+    setCounter(counter + 1);
    
   }
   const subValue = () => {
